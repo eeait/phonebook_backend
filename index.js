@@ -39,11 +39,6 @@ let persons = [
       "number": "040-123456",
       "id": 1
     },
-    {
-      "name": "Max",
-      "number": "715",
-      "id": 9
-    }
 ]
 
 app.get("/api/persons", (req, res) => {
