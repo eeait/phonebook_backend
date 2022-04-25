@@ -1,1 +1,0 @@
-GET https://secure-meadow-80484.herokuapp.com/api/persons
